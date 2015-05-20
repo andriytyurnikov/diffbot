@@ -3,7 +3,7 @@ PATH
   specs:
     diffbot (0.1.8)
       excon
-      hashie (= 3.3.2)
+      hashie (> 2.0.0)
       nokogiri (~> 1.5.0)
       yajl-ruby
 
@@ -14,8 +14,8 @@ GEM
       simplecov (>= 0.7.1, < 1.0.0)
     coderay (1.1.0)
     docile (1.1.5)
-    excon (0.43.0)
-    hashie (3.3.2)
+    excon (0.45.3)
+    hashie (3.4.1)
     method_source (0.8.2)
     minitest (4.7.0)
     multi_json (1.10.1)
